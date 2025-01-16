@@ -24,6 +24,8 @@ Cumulative revenue trends,
 Top 3 pizzas by revenue for each category.
 
 This project enhanced my sql skills, data analysis capabilities, and problem-solving abilities while providing insights into real-world datasets.
+
+
 Feel free to connect for feedback or discussion! 
 
 

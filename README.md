@@ -8,17 +8,17 @@ Order Details: Breakdown of pizzas ordered (quantities and types).
 Pizza Type: Additional data like ingredients and pizza descriptions.
 
 The analysis is divided into three levels:
--Basic
+-Basic:
 Total number of orders and revenue,
 Highest-priced pizza and the most common pizza size,
 Top 5 pizza types by quantity.
 
--Intermediate
+-Intermediate :
 Category-wise and hourly distribution of orders,
 Average pizzas ordered per day,
 Top 3 pizza types by revenue.
 
--Advanced
+-Advanced :
 Percentage revenue contribution of each pizza type,
 Cumulative revenue trends,
 Top 3 pizzas by revenue for each category.
